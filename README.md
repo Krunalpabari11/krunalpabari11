@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN and HMI**
+- 🔭 I’m currently working on **NEXT.JS and HMI**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Dev**
 
-- 💬 Ask me about **React, Java, DSA**
+- 💬 Ask me about **MERN, Java, DSA, NEXT**
 
 - 📫 How to reach me **krunalpabari2012@gmail.com**
 
