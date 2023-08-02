@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **krunalpabari2012@gmail.com**
 
-- ⚡ Fun fact **404 No Fun Found**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
