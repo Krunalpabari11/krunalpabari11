@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpaperaccess.com/full/383168.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Krunal Pabari</h1>
 <h3 align="center">I am Passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
